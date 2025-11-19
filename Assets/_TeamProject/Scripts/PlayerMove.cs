@@ -7,6 +7,7 @@ public class PlayerMove : MonoBehaviour
     {
         print("플레이어 무브");
         print("내꺼에서 디벨롭 제외하고 바로 메인으로 병합되나?");
+        print("이룬 마스터로 바로 병합이 되어버리네?");
     }
 
     // Update is called once per frame
