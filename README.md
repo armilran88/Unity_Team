@@ -1,2 +1,2 @@
-# Unity_Team
-Unity Team Project
+# 유니티 팀프로젝트
+깃허브 사용법을 알아보자
