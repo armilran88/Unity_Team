@@ -6,6 +6,7 @@ public class Test : MonoBehaviour
     void Start()
     {
         print("충돌 psw");
+        print("충돌 ppp");
     }
 
     // Update is called once per frame
