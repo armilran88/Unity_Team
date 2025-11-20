@@ -7,6 +7,7 @@ public class PlayerMove : MonoBehaviour
     {
         print("플레이어 무브");
         print("새로운 시작");
+        //
     }
 
     // Update is called once per frame
