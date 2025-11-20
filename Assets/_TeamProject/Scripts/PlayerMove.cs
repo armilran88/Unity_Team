@@ -5,9 +5,10 @@ public class PlayerMove : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        print("ÇÃ·¹ÀÌ¾î ¹«ºê");
-        print("»õ·Î¿î ½ÃÀÛ");
+        print("í•œê¸€ë„ ì˜ ë‚˜ì˜¤ì§€?");
         //
+
+        print("ì •ë§ ì˜ ë‚˜ì˜¤ë‚˜?");
     }
 
     // Update is called once per frame
